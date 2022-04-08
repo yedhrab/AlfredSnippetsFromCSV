@@ -6,7 +6,9 @@ Creates `*.alfredsnippets` file from `*.csv`
 
 ## ⭐️ Use Cases
 
-- `python main.py -s examples/gitmoji -d examples/gitmoji`
+```python
+python main.py -s examples/gitmoji -d examples/gitmoji
+```
 
 ## 🎗 Need Help!
 
